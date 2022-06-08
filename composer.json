@@ -1,0 +1,15 @@
+{
+    "name": "xiaoguai/microservice",
+    "autoload": {
+        "psr-4": {
+            "Xiaoguai\\Microservice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xiaoguai",
+            "email": "835669138@qq.com"
+        }
+    ],
+    "require": {}
+}
